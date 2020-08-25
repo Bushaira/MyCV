@@ -13,7 +13,7 @@ p{
   border: 1px solid black;
   margin:auto;
   width: 611px;
-  height: 602px;
+  height: 649px;
   padding: 68px;
 }
 
@@ -23,7 +23,7 @@ p{
 .details.rectangle {
     height: 2px;
     background-color:rgb(31, 78, 121);
-    margin-top:37px;
+    margin-top:18px;
     margin-left: -3px;
 }
 .details {
@@ -43,7 +43,7 @@ p{
   float: left;
   padding: 6px;
   margin-top: -3px;
-  margin-left: 4px;
+  margin-left: 0px;
   margin-bottom: -4px;
 }
 .info.headings{
@@ -51,6 +51,7 @@ p{
     color: rgb(31, 78, 121);
     font-family: Calibri;
     padding: 25px 1px 12px 8px;
+    text-align: left;
 }
 img {
     position: absolute;
