@@ -4,7 +4,7 @@ This is a project for displaying the Curriculam Vitae in a web page. This is dev
 In this project Curriculam Vitae is implemented in two ways: 
 1) cvCreation.html
 More detailed description:
-In this following features of HTML and CSS are used. 
+In this, following features of HTML and CSS are used. 
 - Greeting layout
 - Text alignment
 - Font selection
@@ -12,7 +12,7 @@ In this following features of HTML and CSS are used.
 
 2) cvCreation2.html
 More detailed description:
-In this following features of HTML and CSS are used. 
+In this, following features of HTML and CSS are used. 
 - Table layout
 - Text positioning using vertical alignment.
 
