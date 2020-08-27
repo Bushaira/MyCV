@@ -12,7 +12,7 @@ In this, following features of HTML and CSS are used.
 In this, following features of HTML and CSS are used. 
     * _Table layout_
     * _Text positioning using vertical alignment property_  
-<br>
+
 > For the above two CVs, format is taken from the CV prepared in pdf file - [Chakkikalathil_Bushaira_CurriculamVitae.pdf](https://github.com/Bushaira/MyCV/blob/master/Chakkikalathil_Bushaira_CurriculamVitae.pdf "Open CV in pdf")  
 
 ***
