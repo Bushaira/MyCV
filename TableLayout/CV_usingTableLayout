@@ -1,0 +1,101 @@
+<!DOCTYPE HTML>
+<html lang="en">
+    <head>
+        <title>About Bushaira</title>
+        <link rel="stylesheet" href="./cvstyling2.css">
+    </head>
+  <body>
+    <div class="border">
+        <p>Curriculum Vitae</p>
+        <img class="frame" src="./bushaira_profile.jpg" alt="This is Bushaira">
+        <div class="table"> 
+            <table>
+                <thead>
+                    <tr>
+                        <td><div class="details rectangle"></div></td>
+                        <td><div class="info headings">Personal Data</div</td>
+                    </tr>
+                </thead> 
+                <tbody>
+                    <tr>
+                        <td><div class="details"> Name</div></td>
+                        <td><div class="info"> Bushaira Chakkikalathil</div></td>
+                    </tr>
+                    <tr>
+                        <td><div class="details"> Address</div></td>
+                        <td><div class="info"> Daimlerstr. 48 <br>90766 Fürth</div></td>
+                    </tr>
+                    <tr>
+                        <td><div class="details"> Tel .</div></td>
+                        <td><div class="info"> +49-15124605360</div></td>
+                    </tr>
+                    <tr>
+                        <td><div class="details"> E-mail </div></td>
+                        <td><div class="info">   bushairack@gmail.com</div></td>
+                    </tr>
+                    <tr>
+                        <td><div class="details"> Date of Birth </div></td>
+                        <td><div class="info"> 01.03.1991 in India</div></td>
+                    </tr>
+
+                </tbody>
+            </table>
+
+            <table>
+                <thead>
+                    <tr>
+                        <td><div class="details rectangle"></div></td>
+                        <td><div class="info headings">Education</div</td>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><div class="details"> 08/2008-06/2012  </div></td>
+                        <td><div class="info">    Calicut University, Calicut, Kerala (India)<br>Bachelor of Technology in "Computer Science and Engineering"<br></div><br></td>
+                    </tr>
+                    <tr>
+                        <td><div class="details"> 06/2006-03/2008  </div></td>
+                        <td><div class="info">    Board of Higher Secondary Examination,<br>Government of Kerala (India)</div><br></td>
+                    </tr>
+                </tbody>
+            </table>
+            <table>
+                <thead>
+                    <tr>
+                        <td><div class="details rectangle"></div><br></td>
+                        <td><div class="info headings">Further Education</div></td>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><div class="details"> 10/2018-03/2019</div></td>
+                        <td><div class="info">  SSI NET, Kerala (India)<br>"Diploma in Software Development"</div><br></td>
+                    </tr>
+                </tbody>
+
+            </table>
+            <table>
+                <thead>
+                    <tr>
+                        <td><div class="details rectangle"></div></td>
+                        <td><div class="info headings">Knowledge and Skills</div></td>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><div class="details"> Programming / Script-Language</div></td>
+                        <td><div class="info"> Basics of C, C++, C#, HTML, CSS, JavaScript, Python</div></td>
+                    </tr>
+                    <tr>
+                        <td><div class="details"> PC-Knowledge</div></td>
+                        <td><div class="info"> Microsoft Office</div></td>
+                    </tr>
+                    <tr>
+                        <td><div class="details"> Foreign Languages</div></td>
+                        <td><div class="info"> English: Good<br>German: B1 Level</div></td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+  </body>
